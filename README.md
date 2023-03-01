@@ -1,2 +1,11 @@
-# jinkycatat.github.io
-My First HTML Website
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First HTML Page</title>
+    <meta charset="UTF-8">
+</head>
+<body>
+    <h1>Welcome to My First HTML Page!</h1>
+    <p>This is my first HTML page</p>
+</body>
+</html>
